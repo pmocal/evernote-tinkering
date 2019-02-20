@@ -7,7 +7,7 @@ UPDATE 2/12/19:
     import evernote.edam.userstore.constants as UserStoreConstants
     ImportError: No module named evernote.edam.userstore.constants
 
-======
+----
 
 Using the Evernote API for Python I wrote a script that allows the user to create notebooks and notes in their Evernote account from the command line.
 
